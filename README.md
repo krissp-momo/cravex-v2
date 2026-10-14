@@ -4,7 +4,7 @@
 
 **Note:** This README documents the planned scope, architecture, and development roadmap for Cravex v2. Features and technical details described here represent the current plan and may change during implementation.
 
-**Status:** Solo rebuild in progress (v2)  |  **v1 live demo:** [Try Cravex v1](https://v0-campus-food-ordering-system-2bzxaxidv.vercel.app/) | [View v1 source code](https://github.com/Animesh26526/Cravex-campus-food-ordering-system)
+**Status:** Solo rebuild in progress (v2)  |  **v1 :**  [View v1 source code](https://github.com/Animesh26526/Cravex-campus-food-ordering-system)
 
 Cravex v1 was built as a 3-member Database Management System course project. v2 is a ground-up rebuild by me, following a full software-engineering process: Agile sprints, a written SRS, UML design, automated tests and documented retrospectives.
 
